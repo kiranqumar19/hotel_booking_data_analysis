@@ -24,7 +24,3 @@ The following Python libraries were used:
 - **numpy** – Numerical computations  
 - **matplotlib** – Data visualization  
 - **seaborn** – Statistical data visualization  
-
----
-
-## 📂 Project Structure
